@@ -1,0 +1,21 @@
+body{
+    background-color: #121212;
+}
+.fixed-bottom{
+    background-color: #121212;
+    display: flex;
+
+}
+audio {
+    width: 100%;
+}
+.songsContainer{
+    padding: 5px;
+}
+.list-group{
+    overflow: scroll;
+}
+.list-group-item:hover{
+    cursor: pointer;
+    background-color: #d3d3d4;
+}
